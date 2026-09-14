@@ -71,7 +71,7 @@ const fones = [
       "https://api.store.vivo.com.br/medias/96Wx96H-22022058-4-.jpg?context=bWFzdGVyfHByb2R1Y3RpbWFnZXN8MjkyMXxpbWFnZS9qcGVnfGFHSm1MMmhpWWk4NU1ESTVNemN4TlRJM01UazRMemsyVjNnNU5raGZNakl3TWpJd05UaGZJQ2cwS1M1cWNHY3wyNzIwMTU2MjJjNTZiMzFlYmU4MWIwYjE0YjBiZDIyNzg0MGRhZGZlZTk3NGU3OTM2MGI5MDllYmFjMDUzMWNi"
     ],
 
-    affiliateLink: "https://meli.la/1YyMdcq",
+    affiliateLink: "https://meli.la/1daxPec",
     price: 2199,
     brand: "Apple",
     model: "AirPods Pro 2",
@@ -122,7 +122,7 @@ const fones = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScPa7ARnpeSjLi4ns2aC8ENNVrCftwoE5fKmvWPhccjg&s=10"
     ],
 
-    affiliateLink: "https://meli.la/1hh8JVT",
+    affiliateLink: "https://meli.la/2Hs8AC3",
     price: 1499,
     brand: "Samsung",
     model: "Galaxy Buds3 Pro",
@@ -173,7 +173,7 @@ const fones = [
       "https://m.media-amazon.com/images/I/51Y-9iLkCCL.jpg"
     ],
 
-    affiliateLink: "https://meli.la/23PiHcL",
+    affiliateLink: "https://meli.la/2LdMQYx",
     price: 2499,
     brand: "Bose",
     model: "QuietComfort Ultra Earbuds",

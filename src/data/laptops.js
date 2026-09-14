@@ -18,7 +18,7 @@ const laptops = [
       "https://m.media-amazon.com/images/I/616V0DjnYRL.jpg"
     ],
 
-    affiliateLink: "https://meli.la/2e1QXUq",
+    affiliateLink: "https://meli.la/26RkurU",
     price: 9941,
     brand: "Samsung",
     model: "Galaxy Book5 Pro",
@@ -70,7 +70,7 @@ const laptops = [
       "https://images4.kabum.com.br/produtos/fotos/726064/macbook-air-apple-15-chip-m4-cpu-10-nucleos-gpu-10-nucleos-neural-engine-16-nucleos-16gb-ram-ssd-256gb-meia-noite-mw1l3bz-a_1741863290_gg.jpg"
     ],
 
-    affiliateLink: "https://meli.la/2KAMMq9",
+    affiliateLink: "https://meli.la/1UHrfQb",
     price: 10299,
     brand: "Apple",
     model: "MacBook Air 15 (M4)",
@@ -121,7 +121,7 @@ const laptops = [
       "https://importadorausabrasil.com.br/cdn/shop/files/mbp16-spaceblack-gallery2-202410.jpg?v=1747225237&width=4000"
     ],
 
-    affiliateLink: "https://meli.la/2iC6Wru",
+    affiliateLink: "https://meli.la/2zD8y82",
     price: 18702,
     brand: "Apple",
     model: "MacBook Pro 14 (M4 Pro)",
@@ -171,7 +171,7 @@ const laptops = [
       "https://www.adrenaline.com.br/wp-content/uploads/2026/01/imgi_57_xps-14-pdp-mod-audio-1200x900.jpg"
     ],
 
-    affiliateLink: "https://meli.la/2YhGoAQ",
+    affiliateLink: "https://meli.la/2TXy77o",
     price: 22007,
     brand: "Dell",
     model: "XPS 14",
@@ -222,7 +222,7 @@ const laptops = [
       "https://images.kabum.com.br/produtos/fotos/sync_mirakl/626871/Notebook-Asus-Zenbook-14-OLED-Ux3405ma-Core-Ultra-9-185h-Br_1724095958_gg.jpg"
     ],
 
-    affiliateLink: "https://meli.la/2DqCxUf",
+    affiliateLink: "https://meli.la/2jxwzMj",
     price: 9999,
     brand: "ASUS",
     model: "Zenbook 14 OLED",
@@ -272,7 +272,7 @@ const laptops = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqFeeLV1qcCD2r74iY5PobsmgniJDQCUXOZXqEhPeD4irWZHJ1wx7iD3M&s=10"
     ],
 
-    affiliateLink: "https://meli.la/2jcPDVd",
+    affiliateLink: "https://meli.la/2rpXn7n",
     price: 14600,
     brand: "Lenovo",
     model: "Yoga Pro 9i",
@@ -322,7 +322,7 @@ const laptops = [
       "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/csm_Swift_Go_14_Intel_01_490f137412.jpg"
     ],
 
-    affiliateLink: "https://meli.la/2kDBW1B",
+    affiliateLink: "https://meli.la/1VPKFN1",
     price: 6299,
     brand: "Acer",
     model: "Swift Go 14",
@@ -372,7 +372,7 @@ const laptops = [
       "https://www.notebookcheck.info/uploads/tx_nbc2/HP_Pavilion_Plus_14-eh__1_.JPG"
     ],
 
-    affiliateLink: "https://meli.la/2fQxnW9",
+    affiliateLink: "https://meli.la/1rKjPHm",
     price: 16499,
     brand: "HP",
     model: "Pavilion Plus 14",
@@ -422,7 +422,7 @@ const laptops = [
       "https://m.media-amazon.com/images/I/51e3M8kPngL._AC_UF894,1000_QL80_.jpg"
     ],
 
-    affiliateLink: "https://meli.la/1rGyM6r",
+    affiliateLink: "https://meli.la/13VaX72",
     price: 6399,
     brand: "Lenovo",
     model: "IdeaPad Slim 5",
@@ -473,7 +473,7 @@ const laptops = [
       "https://b2b.lojaasus.com.br/media/catalog/product/s/e/secundaria-_asus_vivobook_15_1_blue_2_1.png?quality=90&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700"
     ],
 
-    affiliateLink: "https://meli.la/2mdMqJG",
+    affiliateLink: "https://meli.la/2ntjmqT",
     price: 4899,
     brand: "ASUS",
     model: "Vivobook 15",

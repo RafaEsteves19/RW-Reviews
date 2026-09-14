@@ -67,6 +67,10 @@ function ReviewsPage() {
               <p className="reviews-subtitle">
                 Análises técnicas detalhadas dos melhores produtos do mercado.
               </p>
+
+              <span className="reviews-count">
+                {reviewsData.length} produtos
+              </span>
             </motion.div>
 
             {/* SEARCH */}

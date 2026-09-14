@@ -44,8 +44,8 @@ function Header() {
     <header className="header">
       <div className="header-container">
         <Link to="/" className="logo" translate="no">
-          <img src={logo} alt="RW Tech - Reviews de Eletrônicos" className="logo-image" />
-          <span>RW Tech - Reviews de Eletrônicos</span>
+          <img src={logo} alt="RW Reviews - Eletrônicos" className="logo-image" />
+          <span>RW Reviews - Eletrônicos</span>
         </Link>
 
         <nav className="nav-desktop">

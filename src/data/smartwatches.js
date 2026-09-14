@@ -16,7 +16,7 @@ const smartwatches = [
       "https://http2.mlstatic.com/D_NQ_NP_824991-MLA99943267071_112025-O.webp"
     ],
 
-    affiliateLink: "https://meli.la/1xZWUwd",
+    affiliateLink: "https://meli.la/2ZYnfP1",
     price: 6499,
     brand: "Apple",
     model: "Watch Ultra 2",
@@ -65,7 +65,7 @@ const smartwatches = [
       "https://http2.mlstatic.com/D_NQ_NP_654997-MLA100007935361_122025-O.webp"
     ],
 
-    affiliateLink: "https://meli.la/2YNuvuJ",
+    affiliateLink: "https://meli.la/14jfdzB",
     price: 4999,
     brand: "Apple",
     model: "Watch Series 10",
@@ -116,7 +116,7 @@ const smartwatches = [
       "https://api.store.vivo.com.br/medias/515Wx515H-TGSA5414-Galaxy-Watch-Ultra-LTE-47mm-01-.jpg?context=bWFzdGVyfHByb2R1Y3RpbWFnZXN8NDY3NTN8aW1hZ2UvanBlZ3xhREprTDJoaU5TODVORGN3TVRNNU1EY3lOVFF5THpVeE5WZDROVEUxU0Y5VVIxTkJOVFF4TkY5SFlXeGhlSGt0VjJGMFkyZ3RWV3gwY21FdFRGUkZMVFEzYlcxZklDZ3dNU2t1YW5CbnwyYTkxZWY3YjgwNWRhNzc5ZDYyNDQwZTRkNjE3YzU4ZmVlNDViMDcxMjFjNTExMTQxNjU3MTBjYjQ1MDQ2MjE2"
     ],
 
-    affiliateLink: "https://meli.la/1SeqpX5",
+    affiliateLink: "https://meli.la/1DcPpze",
     price: 3999,
     brand: "Samsung",
     model: "Galaxy Watch Ultra",
@@ -165,7 +165,7 @@ const smartwatches = [
       "https://m.media-amazon.com/images/I/51QR59uTSVL._AC_UF1000,1000_QL80_.jpg"
     ],
 
-    affiliateLink: "https://meli.la/2TWQLJy",
+    affiliateLink: "https://meli.la/14C2wVZ",
     price: 2299,
     brand: "Samsung",
     model: "Galaxy Watch7",
@@ -215,7 +215,7 @@ const smartwatches = [
       "https://images.samsung.com/is/image/samsung/p6pim/africa_pt/sm-r861nzkamea/gallery/africa-pt-galaxy-watch-fe-r861-sm-r861nzkamea-542745784?$1164_776_PNG$"
     ],
 
-    affiliateLink: "https://meli.la/2TWQLJy",
+    affiliateLink: "https://meli.la/1JkahYa",
     price: 1299,
     brand: "Samsung",
     model: "Galaxy Watch FE",
@@ -264,7 +264,7 @@ const smartwatches = [
       "https://m.media-amazon.com/images/I/81BabF31g8L._AC_UF1000,1000_QL80_.jpg"
     ],
 
-    affiliateLink: "https://meli.la/1U8FxSj",
+    affiliateLink: "https://meli.la/1hPGgxJ",
     price: 2999,
     brand: "Huawei",
     model: "Watch GT 5 Pro",
@@ -364,7 +364,7 @@ const smartwatches = [
       "https://www.garminbrasil.com.br/cdn/shop/files/Forerunner-965-Preto-010-02809-30_3.jpg?v=1764005469&width=1946"
     ],
 
-    affiliateLink: "https://meli.la/2f3wZai",
+    affiliateLink: "https://meli.la/2fY7yxt",
     price: 4499,
     brand: "Garmin",
     model: "Forerunner 965",
@@ -414,7 +414,7 @@ const smartwatches = [
       "https://cdn.awsli.com.br/2202/2202388/produto/236181430/venu-3s-41mm-dourado-fjwaizav2c.png"
     ],
 
-    affiliateLink: "https://meli.la/2b13mrN",
+    affiliateLink: "https://meli.la/33RbA6P",
     price: 3899,
     brand: "Garmin",
     model: "Venu 3",
@@ -464,7 +464,7 @@ const smartwatches = [
       "https://m.media-amazon.com/images/I/61hw4IVvmkL._AC_UF1000,1000_QL80_.jpg"
     ],
 
-    affiliateLink: "https://meli.la/1hi2Zqg",
+    affiliateLink: "https://meli.la/29Pw5fi",
     price: 899,
     brand: "Amazfit",
     model: "Balance",
@@ -514,7 +514,7 @@ const smartwatches = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv8xT4JFqEzOuJ7p2RS36yyCXFcs1mf1nwJ2AhuUd1nw&s=10"
     ],
 
-    affiliateLink: "https://meli.la/2ZHWhjC",
+    affiliateLink: "https://meli.la/1zSaDa6",
     price: 759,
     brand: "Amazfit",
     model: "Active 2",
@@ -612,7 +612,7 @@ const smartwatches = [
       "https://m.media-amazon.com/images/I/71LUqGSz5PL.jpg"
     ],
 
-    affiliateLink: "https://meli.la/25hu2pA",
+    affiliateLink: "https://meli.la/25NjRyf",
     price: 699,
     brand: "Xiaomi",
     model: "Redmi Watch 5",
@@ -662,7 +662,7 @@ const smartwatches = [
       "https://http2.mlstatic.com/D_NQ_NP_776816-MLA99587793772_122025-O.webp"
     ],
 
-    affiliateLink: "https://meli.la/1gvj8Dt",
+    affiliateLink: "https://meli.la/1Sidgqo",
     price: 799,
     brand: "Nothing",
     model: "CMF Watch Pro 2",

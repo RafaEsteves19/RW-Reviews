@@ -18,8 +18,8 @@ const smartphones = [
       "https://images.tcdn.com.br/img/img_prod/777993/smartphone_samsung_galaxy_a16_5g_processador_exynos_1330_128gb_4gb_ram_camera_tripla_50mp_tela_6_7_a_131076_1_24bc3abf5d91919918656c1902fe2098.jpg"
     ],
 
-    affiliateLink: "https://meli.la/2TKVtjr",
-    price: 971,
+    affiliateLink: "https://meli.la/1a2nTsu",
+    price: 999,
     brand: "Samsung",
     model: "Galaxy A16",
 
@@ -70,7 +70,7 @@ const smartphones = [
     ],
 
     affiliateLink: "https://meli.la/2htEJ3V",
-    price: 1559,
+    price: 1899,
     brand: "Samsung",
     model: "Galaxy A26",
 
@@ -119,8 +119,8 @@ const smartphones = [
       "https://http2.mlstatic.com/D_NQ_NP_973823-MLA82921260465_032025-O.webp"
     ],
 
-    affiliateLink: "https://meli.la/1oVFnhF",
-    price: 1097,
+    affiliateLink: "https://meli.la/2aXdDZ2",
+    price: 999,
     brand: "Xiaomi",
     model: "Redmi 14C",
 
@@ -168,8 +168,8 @@ const smartphones = [
       "https://archives.lojasnossolar.com.br/images/nossolar/sku/21787/448621_269073_800.webp"
     ],
 
-    affiliateLink: "https://meli.la/1SRS3uG",
-    price: 1375,
+    affiliateLink: "https://meli.la/2RNN16M",
+    price: 1679,
     brand: "Xiaomi",
     model: "Redmi Note 14",
 
@@ -218,8 +218,8 @@ const smartphones = [
       "https://archives.lojasnossolar.com.br/images/nossolar/sku/19394/086453_248774_800.webp"
     ],
 
-    affiliateLink: "https://meli.la/1WCcy2s",
-    price: 1008,
+    affiliateLink: "https://meli.la/14NHmVE",
+    price: 958,
     brand: "Motorola",
     model: "G35",
 
@@ -269,8 +269,8 @@ const smartphones = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTliFwWLWqLv6jUg4qznRckmwK6NRFYVAGLu_MbvyxVX5Q80lcRqky9Eak&s=10"
     ],
 
-    affiliateLink: "https://meli.la/1o9FK5a",
-    price: 1799,
+    affiliateLink: "https://meli.la/1Ej7V2A",
+    price: 1847,
     brand: "Samsung",
     model: "Galaxy A36",
 
@@ -320,8 +320,8 @@ const smartphones = [
       "https://fujiokadistribuidor.vteximg.com.br/arquivos/ids/423540"
     ],
 
-    affiliateLink: "https://meli.la/2agKjAa",
-    price: 2399,
+    affiliateLink: "https://meli.la/1nyShsd",
+    price: 2261,
     brand: "Samsung",
     model: "Galaxy A56",
 
@@ -369,8 +369,8 @@ const smartphones = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN1-erGZtUuUk0JWYoygW-_e3t4CTfPtU6jCNb0P4B6xdb0PnWcP2acQqr&s=10"
     ],
 
-    affiliateLink: "https://meli.la/1ykXEAs",
-    price: 2265,
+    affiliateLink: "https://meli.la/2qWmVRV",
+    price: 1599,
     brand: "Xiaomi",
     model: "Redmi Note 14 Pro",
 
@@ -419,7 +419,7 @@ const smartphones = [
     ],
 
     affiliateLink: "https://meli.la/2BZ9vpv",
-    price: 1804,
+    price: 1849,
     brand: "Xiaomi",
     model: "Edge 50 Fusion",
 
@@ -469,7 +469,7 @@ const smartphones = [
     ],
 
     affiliateLink: "https://meli.la/24rdnLP",
-    price: 2161,
+    price: 2344,
     brand: "Xiaomi",
     model: "Poco X7 Pro",
 
@@ -517,7 +517,7 @@ const smartphones = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAiZx1BOstBqAcJuhEFjt4tD1cZGIs9lNxOjr-1IoWDMgp6R586Wb2V_I&s=10"
     ],
 
-    affiliateLink: "https://meli.la/21UXr5G",
+    affiliateLink: "https://meli.la/196yv5X",
     price: 3960,
     brand: "Samsung",
     model: "Galaxy S24",
@@ -567,8 +567,8 @@ const smartphones = [
       "https://www.worten.pt/i/0421ba761ef21450b2f739ae6547e13d88818f93"
     ],
 
-    affiliateLink: "https://meli.la/29oUDtt",
-    price: 4098,
+    affiliateLink: "https://meli.la/2zbJH4s",
+    price: 4465,
     brand: "Samsung",
     model: "Galaxy S25",
 
@@ -658,15 +658,15 @@ const smartphones = [
       "Smartphone premium equilibrado, ideal para quem busca alto desempenho, tecnologia avançada e excelente experiência de uso. Conta com tela AMOLED de alta qualidade, grande armazenamento, bateria de longa duração e carregamento rápido.",
 
     productImage:
-      "https://s.zst.com.br/cms-assets/2024/10/redmi-note-14-cores.webp",
+      "https://m.media-amazon.com/images/I/51RwGI1dljL.jpg",
 
     gallery: [
-      "https://s.zst.com.br/cms-assets/2024/10/redmi-note-14-cores.webp",
+      "https://m.media-amazon.com/images/I/51RwGI1dljL.jpg",
       "https://images.tcdn.com.br/img/img_prod/1324137/smartphone_xiaomi_redmi_note_14_pro_plus_5g_8gb_de_ram_256gb_tela_6_67_global_preto_1159_2_c689b8eb2f822497dc0d313359bc2f9b.jpg",
       "https://d1r6yjixh9u0er.cloudfront.net/Custom/Content/Products/83/39/8339_smartphone-xiaomi-redmi-note-14-pro-5g-12gb-ram-512gb-prin_m2_638733323225982472.webp"
     ],
 
-    affiliateLink: "https://meli.la/1EvAYHw",
+    affiliateLink: "https://meli.la/12zPq9W",
     price: 2720,
     brand: "Xiaomi",
     model: "Redmi Note 14 Pro+",
@@ -715,7 +715,7 @@ const smartphones = [
       "https://images.tcdn.com.br/img/img_prod/1324137/90_smartphone_xiaomi_poco_f7_512gb12gb_tela_683_ram_1_20251114095425_a1feeb61c1a2.jpg"
     ],
 
-    affiliateLink: "https://meli.la/2A2nVC1",
+    affiliateLink: "https://meli.la/115CsGR",
     price: 3399,
     brand: "Xiaomi",
     model: "Poco F7",
@@ -765,7 +765,7 @@ const smartphones = [
       "https://www.apple.com/newsroom/images/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/article/Apple-iPhone-15-lineup-hero-geo-230912_inline.jpg.large.jpg"
     ],
 
-    affiliateLink: "https://meli.la/2gVjbN2",
+    affiliateLink: "https://meli.la/2YchehH",
     price: 4139,
     brand: "Apple",
     model: "iPhone 15",
@@ -864,7 +864,7 @@ const smartphones = [
       "https://images3.kabum.com.br/produtos/fotos/495433/iphone-15-pro-max-apple-1tb-azul-titanium-tela-6-7-camera-tripla-48mp-selfie-24mp-mu7k3be-a_1699653096_gg.jpg"
     ],
 
-    affiliateLink: "https://meli.la/2nUexQk",
+    affiliateLink: "https://meli.la/2bXoCgM",
     price: 8349,
     brand: "Apple",
     model: "iPhone 15 Pro Max",
@@ -914,7 +914,7 @@ const smartphones = [
       "https://m.magazineluiza.com.br/a-static/420x420/samsung-galaxy-s25-ultra-5g-256gb-galaxy-ai-titanio-preto-69-12gb-ram-cam-quadrupla-200-50-10-50mp-bateria-5000mah-dual-chip/magazineluiza/238922200/9fd407b3e930445a2d71aeda591066cf.jpg"
     ],
 
-    affiliateLink: "https://meli.la/11o9VV8",
+    affiliateLink: "https://meli.la/2k38ZZU",
     price: 5998,
     brand: "Samsung",
     model: "Galaxy S25 Ultra",
@@ -964,7 +964,7 @@ const smartphones = [
       "https://cdn.awsli.com.br/800x800/2757/2757071/produto/319224467/1_aemywx3beabnz_prd_1500_2-jpg-qv2iefx9m0.webp"
     ],
 
-    affiliateLink: "https://meli.la/1PNbiV6",
+    affiliateLink: "https://meli.la/2iNk9sv",
     price: 9030,
     brand: "Apple",
     model: "iPhone 16 Pro Max",
